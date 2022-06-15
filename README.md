@@ -1,6 +1,6 @@
 # StoryBook-React
 
-Use the Storybook CLI to install it in a single command. Run this inside your torybook project:
+Initial setup to create story book Use the Storybook CLI to install it in a single command:
 
 # Add Storybook:
 npx storybook init
