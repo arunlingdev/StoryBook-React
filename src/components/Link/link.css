@@ -1,0 +1,22 @@
+.custom-links a {
+  text-align: left;
+  text-decoration: none;
+  font-family: 'sans-serif';
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.17em;
+  letter-spacing: 0.5px;
+  color: #424140;
+  text-transform: capitalize;
+  opacity: 1;
+  text-transform: capitalize;
+
+}
+
+.custom-links a:hover {
+  color: #14749e;
+}
+
+.tile-container {
+  font-family: 'sans-serif';
+}

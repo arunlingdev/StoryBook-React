@@ -1,0 +1,30 @@
+.custom-heading h1,h2,h2,h3,h4,h5,h6 {
+    font-family: 'sans-serif';
+    font-weight: 700;
+    color: #424140;
+    text-transform: uppercase;
+  }
+
+  .custom-heading h1 {
+    font-size: 1.5em;
+  }
+
+  .custom-heading h2 {
+    font-size: 1.4em;
+  }
+
+  .custom-heading h3 {
+    font-size: 1.3em;
+  }
+
+  .custom-heading h4 {
+    font-size: 1.2em;
+  }
+
+  .custom-heading h5 {
+    font-size: 1.1em;
+  }
+
+  .custom-heading h6 {
+    font-size: 0.8em;
+  }
